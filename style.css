@@ -139,6 +139,8 @@ body::after {
     object-fit: cover;
     object-position: center;
     border-radius: 2px;
+    visibility: visible;
+    opacity: 1;
 }
 
 .tape {
